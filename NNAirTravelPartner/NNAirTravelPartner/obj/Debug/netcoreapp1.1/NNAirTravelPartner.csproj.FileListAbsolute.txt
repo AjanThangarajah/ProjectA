@@ -1,0 +1,9 @@
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\bin\Debug\netcoreapp1.1\NNAirTravelPartner.deps.json
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\bin\Debug\netcoreapp1.1\NNAirTravelPartner.runtimeconfig.json
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\bin\Debug\netcoreapp1.1\NNAirTravelPartner.runtimeconfig.dev.json
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\bin\Debug\netcoreapp1.1\NNAirTravelPartner.dll
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\bin\Debug\netcoreapp1.1\NNAirTravelPartner.pdb
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\obj\Debug\netcoreapp1.1\NNAirTravelPartner.csprojResolveAssemblyReference.cache
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\obj\Debug\netcoreapp1.1\NNAirTravelPartner.AssemblyInfo.cs
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\obj\Debug\netcoreapp1.1\NNAirTravelPartner.dll
+D:\Projects\Ajanprg\NNAirTravelPartner\NNAirTravelPartner\obj\Debug\netcoreapp1.1\NNAirTravelPartner.pdb
